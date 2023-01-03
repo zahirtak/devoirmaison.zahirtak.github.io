@@ -1,0 +1,27 @@
+h1{
+	color:rgba(123, 156, 180);
+	font-size:3em ;
+	text-align: center;
+
+}
+
+h2{
+	text-decoration:underline ;
+}
+
+a{
+	color: royalblue;
+
+}
+img{
+	box-shadow: 0px 0px 5px rgb(0 0 0 / 40%);
+    display: block;
+    margin: 0 auto;
+    width: 90x;
+    border-radius: 10px;
+
+}
+img{
+	 width: 50%;
+    border-radius: 10px;
+}
