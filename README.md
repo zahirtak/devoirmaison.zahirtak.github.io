@@ -11,3 +11,12 @@ Les unités PX, VW et EM sont toutes trois utilisées en programmation web pour 
 
 qui ce que un commit ?
 En informatique, un commit est une action qui permet de stocker les modifications apportées à un projet dans un dépôt de code. Lorsque vous faites un commit, vous ajoutez vos modifications à l'historique du projet, ce qui vous permet de retrouver facilement ces modifications ultérieurement. Les commits sont souvent utilisés dans les systèmes de gestion de versions, comme Git, pour enregistrer l'historique des modifications apportées au code. Chaque commit a un message associé qui décrit les modifications apportées au projet. Les commits sont souvent utilisés pour partager les modifications avec d'autres développeurs ou pour publier le code sur un dépôt public.
+Une API de OpenAI 
+https://beta.openai.com/
+L'API OpenAI peut être appliquée à pratiquement toutes les tâches impliquant la compréhension ou la génération de langage naturel ou de code. Elle propose une gamme de modèles avec différents niveaux de puissance adaptés à différentes tâches. 
+Tel que :
+•	Génération de texte   Chatgbt 
+•	Génération d’image - DALLi-E 
+•	Génération de code  Codex
+Documentation 
+https://beta.openai.com/docs/introduction
